@@ -1,6 +1,13 @@
 <resources>
     <string name="app_name">Your Fortune</string>
+    <string name="action_settings">Settings</string>
+    <string name="instructions">Think of a yes or no question then click the button for your answer.</string>
+    <string name="example">Example: Am I cool? Am I smart?</string>
+    <string name="answertxt"></string>
+    <string name="answerbtn">Click me</string>
+    <string name="title_activity_start_up">Start Up</string>
+    <string name="beginhavingfun">Click here to Begin having fun!</string>
+    <string name="title_activity_fortune">FortuneActivity</string>
 
     <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
 </resources>
