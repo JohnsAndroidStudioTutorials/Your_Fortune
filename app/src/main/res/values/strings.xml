@@ -8,6 +8,5 @@
     <string name="title_activity_start_up">Start Up</string>
     <string name="beginhavingfun">Click here to Begin having fun!</string>
     <string name="title_activity_fortune">FortuneActivity</string>
-
-    <string name="hello_world">Hello world!</string>
+    <string name="proper_credit">Originally made by John Sartain</string>
 </resources>
